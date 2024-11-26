@@ -1,2 +1,2 @@
 # proxmox-server-guide
-Documentazione per la gestione di server Proxmox e servizi
+Documentazione per la creazione e gestione di server Proxmox e servizi
